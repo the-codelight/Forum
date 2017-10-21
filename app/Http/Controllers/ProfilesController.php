@@ -21,8 +21,4 @@ class ProfilesController extends Controller
         ]);
     }
 
-    protected function getActivity($user)
-    {
-
-    }
 }
